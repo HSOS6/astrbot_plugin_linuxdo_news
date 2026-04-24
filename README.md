@@ -1,5 +1,10 @@
 # astrbot_plugin_linuxdo_news
 
+>  如果觉得有用，就点个Star吧 ~ 
+
+灵感来自 L站帖子：https://linux.do/t/topic/2048494/  
+感谢这位贴主
+
 抓取 `https://news.linuxe.top/` 的 linux.do 技术聚合日报，并在本地使用 Pillow 渲染为精美图片后发送到 QQ / 其他 AstrBot 支持的平台会话。
 
 ## 功能特性
@@ -11,6 +16,10 @@
 - 支持每日定时推送
 - 支持当日未更新时自动发送最新一期（可配置关闭）
 - 支持控制图片宽度、展示分区数、每个分区展示链接数
+
+图片：
+<img width="1000" height="3753" alt="866cee5ff85b31bd8146bd004f5ffeb9" src="https://github.com/user-attachments/assets/b35d8c08-4c69-4273-9c0b-ed725dfcb5c1" />
+
 
 ## 安装依赖
 
