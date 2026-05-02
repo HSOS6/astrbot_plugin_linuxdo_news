@@ -1,6 +1,7 @@
 name: astrbot_plugin_linuxdo_news
 display_name: L站资讯日报
-desc: 抓取 L 站日报并生成图片
+desc: 抓取 L 站（linux.do）日报网站并生成简单日报图片
 version: v1.1.0
-author: 星见雅
+author: 星见雅（5060ti个马力的2099
+）
 repo: https://github.com/HSOS6/astrbot_plugin_linuxdo_news
