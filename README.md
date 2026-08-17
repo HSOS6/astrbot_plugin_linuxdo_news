@@ -1,4 +1,4 @@
-# astrbot_plugin_linuxdo_news
+# astrbot_plugin_linuxdo_news（这个坏了）
 
 >  如果觉得有用，就点个Star吧 ~ 
 
